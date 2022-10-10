@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jenniVer/static/css/main.af7b2066.css",
-    "main.js": "/jenniVer/static/js/main.dcd26c01.js",
+    "main.js": "/jenniVer/static/js/main.7f0db44e.js",
     "static/js/787.0695f71e.chunk.js": "/jenniVer/static/js/787.0695f71e.chunk.js",
     "index.html": "/jenniVer/index.html",
     "main.af7b2066.css.map": "/jenniVer/static/css/main.af7b2066.css.map",
-    "main.dcd26c01.js.map": "/jenniVer/static/js/main.dcd26c01.js.map",
+    "main.7f0db44e.js.map": "/jenniVer/static/js/main.7f0db44e.js.map",
     "787.0695f71e.chunk.js.map": "/jenniVer/static/js/787.0695f71e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af7b2066.css",
-    "static/js/main.dcd26c01.js"
+    "static/js/main.7f0db44e.js"
   ]
 }
